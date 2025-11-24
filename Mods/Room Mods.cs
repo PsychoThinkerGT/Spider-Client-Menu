@@ -192,7 +192,7 @@ namespace StupidTemplate.Mods
             PhotonNetwork.ConnectToRegion("iu");
         }
         #endregion
-        #region
+        #region VARS
         private static bool IsON = false;
 
         public static void CreateRoom(string roomName, bool isPublic)
