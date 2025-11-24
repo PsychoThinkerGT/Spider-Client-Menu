@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ozRkuA0mNiY=",
+  "dgSpecHash": "QF/DXjUKR+4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cagle\\source\\repos\\Spider-Client-Menu1\\StupidTemplate.csproj",
+  "projectFilePath": "C:\\Users\\cagle\\Source\\Repos\\Spider-Client-Menu\\StupidTemplate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cagle\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.3\\bepinex.assemblypublicizer.msbuild.0.4.3.nupkg.sha512"
   ],

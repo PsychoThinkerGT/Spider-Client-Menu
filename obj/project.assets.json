@@ -66,11 +66,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cagle\\source\\repos\\Spider-Client-Menu1\\StupidTemplate.csproj",
+      "projectUniqueName": "C:\\Users\\cagle\\Source\\Repos\\Spider-Client-Menu\\StupidTemplate.csproj",
       "projectName": "StupidTemplate",
-      "projectPath": "C:\\Users\\cagle\\source\\repos\\Spider-Client-Menu1\\StupidTemplate.csproj",
+      "projectPath": "C:\\Users\\cagle\\Source\\Repos\\Spider-Client-Menu\\StupidTemplate.csproj",
       "packagesPath": "C:\\Users\\cagle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cagle\\source\\repos\\Spider-Client-Menu1\\obj\\",
+      "outputPath": "C:\\Users\\cagle\\Source\\Repos\\Spider-Client-Menu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cagle\\AppData\\Roaming\\NuGet\\NuGet.Config",

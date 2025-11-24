@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StupidTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd0b6bce7edf0003d90f0572a6eb59886154fb5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c35d7a697a007afb30e48d1d0ab0ba4b4dcd3d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("StupidTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StupidTemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

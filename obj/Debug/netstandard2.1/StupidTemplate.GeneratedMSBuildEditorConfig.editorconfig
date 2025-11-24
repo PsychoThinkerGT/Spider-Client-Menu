@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = StupidTemplate
-build_property.ProjectDir = C:\Users\cagle\source\repos\Spider-Client-Menu1\
+build_property.ProjectDir = C:\Users\cagle\Source\Repos\Spider-Client-Menu\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
